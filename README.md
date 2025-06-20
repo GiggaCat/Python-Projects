@@ -9,8 +9,8 @@
 python-projects/
 ├── README.md
 ├── Beginner/
-│   ├── calculator.py         # Simple calculator project
-│   ├── todo_list.py          # Basic to-do list application
+│   ├── RESTAURANT.py                     # Simple project that calculate bill and place your order
+│   ├── STONE-PAPER-SCISSOR GAME.py       # Simple rock,paper,scissor game 
 ├── Intermediate/
 │   ├── weather_app.py        # Weather API-based application
 │   ├── quiz_game.py          # Interactive quiz game
