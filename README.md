@@ -8,15 +8,10 @@
 <pre>
 python-projects/
 ├── README.md
-├── Beginner/
-│   ├── RESTAURANT.py                     # Simple project that calculate bill and place your order
-│   ├── STONE-PAPER-SCISSOR GAME.py       # Simple rock,paper,scissor game 
-├── Intermediate/
-│   ├── weather_app.py        # Weather API-based application
-│   ├── quiz_game.py          # Interactive quiz game
-├── Advanced/
-│   ├── ecommerce_backend.py  # Backend simulation for an e-commerce site
-│   ├── chatbot.py            # AI-based chatbot using NLP
+├── RESTAURANT.py                     # Simple project that calculate bill and place your order
+├── STONE-PAPER-SCISSOR GAME.py       # Simple rock,paper,scissor game 
+├── GUESS-THE-NUMBER.py               # Play against the coumputer and guess the correct number
+├── DESKTOP-ASSISTANT.py              # An Interactive openai based model capable of many of things
 </pre>
 
 <h2>📖 What You'll Learn</h2>
