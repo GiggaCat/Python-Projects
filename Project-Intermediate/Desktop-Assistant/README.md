@@ -1,17 +1,27 @@
-<h1 align="center">Jarvis: Your Personal AI Voice Assistant 🧠🎙️</h1>
+<h1 align="center">Jarvis: Your Personal AI Voice Assistant 🤖</h1>
 
 
 
 <p align="center">Welcome to Jarvis, your AI-powered personal assistant that simplifies your daily tasks with voice commands and intelligent responses. 🚀</p>
 
----
 ## 🌟 Features
 
-- 🔗 <b>Web Navigation</b>: Open websites like Google, GitHub, and YouTube effortlessly.
-- 🧠 <b>AI Conversations</b>: Get smart and context-aware responses powered by OpenAI's GPT-4.
-- 📰 <b>Real-Time News</b>: Fetch the latest news headlines with a single command.
-- 🎵 <b>Music Playback</b>: Play your favorite songs instantly.
-- ⚙️ <b>Customizable Commands</b>: Tailor the assistant to your unique preferences.
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔗 <b>Web Navigation</b>: Open websites like Google, GitHub, and YouTube effortlessly.</li>
+        <li>🧠 <b>AI Conversations</b>: Get smart and context-aware responses powered by OpenAI's GPT-4.</li>
+        <li>📰 <b>Real-Time News</b>: Fetch the latest news headlines with a single command.</li>
+        <li>🎵 <b>Music Playback</b>: Play your favorite songs instantly.</li>
+        <li>⚙️ <b>Customizable Commands</b>: Tailor the assistant to your unique preferences.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW54dG42NXlwZ25tbmhwZDV1N3J4ejV2bWNiN3Y3bTE4Mmdnemk0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fIpeAwhnlZdM8SZt/giphy.gif" alt="Feature GIF" style="max-width: 100%; border-radius: 10px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
