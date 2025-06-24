@@ -12,7 +12,7 @@
     <td>
       <ul>
         <li>🔗 <b>Web Navigation</b>: Open websites like Google, GitHub, and YouTube effortlessly.</li>
-        <li>🧠 <b>AI Conversations</b>: Get smart and context-aware responses powered by OpenAI's GPT-4.</li>
+        <li>🧠 <b>AI Conversations</b>: Get smart and context-aware responses powered by SerpAPI.</li>
         <li>📰 <b>Real-Time News</b>: Fetch the latest news headlines with a single command.</li>
         <li>🎵 <b>Music Playback</b>: Play your favorite songs instantly.</li>
         <li>⚙️ <b>Customizable Commands</b>: Tailor the assistant to your unique preferences.</li>
@@ -38,7 +38,7 @@ Make sure you have:
   - `pyttsx3`
   - `webbrowser`
   - `requests`
-  - `openai`
+  - `SerpAPI`
 
 ### Installation
 
@@ -54,7 +54,7 @@ Make sure you have:
    ```
 
 3. Set your API keys:
-   - Replace `openai.api_key` with your OpenAI API key.
+   - Replace `serp.api_key` with your  SerpAPI key.
    - Replace `news_api` with your NewsAPI key.
 
 4. Run the project:
@@ -66,7 +66,7 @@ Make sure you have:
 
 ## 🎙️ How to Use
 
-1. Activate Jarvis with phrases like <b>"Hi Jarvis"</b> or <b>"Hello"</b>.
+1. Activate Jarvis with phrases like <b>"jarvis"</b> or <b>"hi jarvis"</b>.
 2. Give commands such as:
    - "Open Google"
    - "Play [song name]"
@@ -81,7 +81,7 @@ Make sure you have:
 - **Python**: The foundation of the project.
 - **SpeechRecognition**: For voice-to-text conversion.
 - **Pyttsx3**: Provides text-to-speech functionality.
-- **OpenAI API**: Enables AI-driven interactions.
+- **SerpAPI**: Enables AI-driven interactions.
 - **Requests**: For fetching real-time data like news headlines.
 
 ---
@@ -117,7 +117,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Special thanks to:
 
-- [OpenAI](https://openai.com) for GPT-4.
+- [SerpAPI](https://serpapi.com) for AI-Driven interactions.
 - [NewsAPI](https://newsapi.org) for providing real-time news.
 - The Python community for amazing libraries and support.
 
